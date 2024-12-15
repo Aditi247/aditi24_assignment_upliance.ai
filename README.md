@@ -50,7 +50,7 @@ The primary objectives include:
 3. **Enhance User Experience**: Improve cooking session experiences, as higher session ratings correlate with completed orders.
 
 ## Files Included
-- `data_analysis_notebook.ipynb`: Jupyter notebook containing the complete analysis and visualizations.
+- `main.ipynb`: Jupyter notebook containing the complete analysis and visualizations.
 - `UserDetails.csv`: User information dataset.
 - `CookingSessions.csv`: Cooking sessions dataset.
 - `OrderDetails.csv`: Order details dataset.
